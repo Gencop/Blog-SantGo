@@ -1,2 +1,16 @@
-# Blog-SantGo
-Es un proyecto dedicado al crecimiento de comunidad empresarial a traves de un blog de eventos
+Blog SantGo
+
+(Descripción del proyecto)
+
+(Instalación)
+-Requisitos
+-Versión
+-Encargados del proyecto
+
+(usage(el uso))
+
+(mayor documentación)
+
+(roadmap)
+
+(Licencia)
