@@ -14,3 +14,5 @@ Blog SantGo
 (roadmap)
 
 (Licencia)
+(agradecimientos)
+
